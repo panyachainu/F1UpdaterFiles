@@ -1,14 +1,14 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.1",
   "files": [
     {
       "name": "KZ AI Reactor F1.ex5",
-      "url": "https://drive.google.com/uc?export=download&id=15UoV1EAh3PmmmnsqF6NPOIM0F4C8ugKb",
+      "url": "https://raw.githubusercontent.com/panyachainu/F1UpdaterFiles/refs/heads/main/Experts/KZ%20AI%20Reactor%20F1.ex5",
       "type": "ea"
     },
     {
       "name": "F1 Radar.ex5",
-      "url": "https://drive.google.com/uc?export=download&id=1NlM_jbbT46pACy56iK-JOe5KrlEDZ1lP",
+      "url": "https://raw.githubusercontent.com/panyachainu/F1UpdaterFiles/refs/heads/main/Indicators/F1%20Radar.ex5",
       "type": "indicator"
     }
   ]
